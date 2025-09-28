@@ -42,6 +42,8 @@ dream-visualizer
 - Use the components provided to customize your experience.
 
 ## Contributing
+- [@sidalbingl]((https://github.com/sidalbingl))
+
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
 ## License
